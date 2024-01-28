@@ -33,12 +33,4 @@ This project provides a collection of integrated image processing functions impl
 - Morphological Operations: Erosion, Dilation, Opening, Closing, etc.
 - Segmentation: Thresholding, Region Growing, Watershed, etc.
 
-## Contributing
-Contributions to this project are welcome. Feel free to open an issue or submit a pull request to suggest improvements or additional features.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Special thanks to [Name] for their valuable contributions.
-- Some algorithms adapted from [Source] (provide appropriate credits if using third-party code).
